@@ -1,9 +1,9 @@
 jQuery(document).ready(function() {
 	var QRBox	=	$('#QRBox');
 	var MainBox	=	$('#MainBox');
-	var BTCQR	=	'images/BTCQR.png';	// 二维码路径
-	var AliPayQR	=	'images/AliPayQR.png';
-	var WeChanQR	=	'images/WeChanQR.png';
+	var BTCQR	=	'http://www.mcling.xyz/img/wechat.png';	// 二维码路径
+	var AliPayQR	=	'http://www.mcling.xyz/img/alipay.png';
+	var WeChanQR	=	'http://www.mcling.xyz/img/wechat.png';
 
 	
 
